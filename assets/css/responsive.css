@@ -1,0 +1,276 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.menu-titles .bit-box {
+	font-size: 13px;
+}
+
+.list-collection .block_collection_image {
+	padding: 0 0px 40px 0px;
+}
+
+.test-des {
+	padding: 0 10px;
+}
+
+.right__block .services-text {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.blockcontent img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0px auto;
+}
+
+form#searchbox input.search_query {
+	margin-left: 23%;
+}
+
+form#searchbox #search_button {
+	right: 26%;
+}
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+/* top-bar */
+
+.text-topbar {
+	display: none;
+}
+
+.header-maainright {
+	right: 10%;
+}
+
+.header-maain {
+	left: 92%;
+}
+
+.header-info {
+	margin-top: 10px;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.header-maain .drop-bx {
+	margin-left: -95px;
+}
+
+.dreamnd:hover .dropdown-submenu {
+	visibility: hidden;
+}
+
+.dreamn:hover .drop-pro {
+	visibility: hidden;
+}
+
+#header-logo {
+	margin-right: -65px;
+	text-align: right;
+}
+
+.add-cart {
+	margin-top: 135px;
+	margin-right: 20px;
+}
+
+.mean-container a.meanmenu-reveal {
+	margin-top: -41px;
+	margin-left: 0px;
+}
+
+.header-bottom {
+	margin-bottom: 50px;
+	border: none;
+}
+
+.logo-bar__image {
+	max-width: 100%;
+}
+
+.right__block .services-text {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.container {
+	max-width: 960px;
+}
+
+.mega-title {
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.hero {
+	height: 430px;
+}
+
+.blockcontent img {
+	display: block;
+	max-width: 100%;
+	margin: 0px auto;
+	height: auto;
+}
+
+.blockcontent {
+	position: n;
+	top: 20px;
+}
+
+.footer-7 .center__wrap .title-block {
+	display: block;
+}
+
+form#searchbox input.search_query {
+	margin-left: 20%;
+}
+
+form#searchbox #search_button {
+	right: 18%;
+}
+
+
+}
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+header .topbar {
+	text-align: center;
+	display: none;
+}
+
+.header-info {
+	margin-top: 8px;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.header-maainright {
+	left: -34%;
+}
+
+.header-maain {
+	left: 72%;
+}
+
+.header-maain .drop-bx {
+	margin-left: -133%;
+}
+
+#header-logo {
+	padding-bottom: 0;
+}
+
+.list-collection {
+	margin-top: 32px;
+}
+
+.header-bottom {
+	border: none;
+}
+
+.list-collection {
+	display: block;
+}
+
+.logo-bar__image {
+	max-width: 100%;
+	height: auto;
+}
+
+.block_colelction_content h2 {
+	line-height: 50px;
+}
+
+.blockcontent img {
+	display: block;
+	max-width: 100%;
+	margin: 0px auto;
+	height: auto;
+}
+
+.mega-title {
+	font-size: 30px;
+	line-height: 35px;
+}
+
+.blockcontent {
+	position: relative;
+	top: 0;
+}
+
+.section-hero {
+	padding-bottom: 20px;
+}
+
+.section__banner {
+	padding: 20px 0;
+}
+
+.section-new input {
+	width: 291px;
+}
+
+.about__footer {
+	text-align: center;
+}
+
+.footer-7 .content_left_wrap {
+	padding-bottom: 20px;
+	padding-right: 0;
+}
+
+.footer-7 .center__wrap .title-block {
+	display: block;
+}
+
+.footer-7 .footer-nav {
+	line-height: 35px;
+}
+
+.footer-7 .footer-nav .container-content .powered_right, .footer-7 .footer-nav .container-content .powered_left {
+	display: block;
+}
+
+.footer-7 .no-padding.powered_right {
+	text-align: center;
+}
+
+form#searchbox input.search_query {
+	margin-left: 0;
+}
+
+form#searchbox #search_button {
+	right: 6%;
+}
+
+#add-hover {
+	min-width: 245px;
+	background: #fff;
+	padding: 1px 15px;
+}
+
+
+.dropdown-submenu {
+	display: none;
+}
+
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+}
